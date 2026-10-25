@@ -1,2 +1,3 @@
 Hello! My name is Narissa John.
 This is my Git tutorial assignment.
+I am learning how to use Git and GitHub for my ITE 1100 course.
